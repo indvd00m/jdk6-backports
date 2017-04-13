@@ -6,7 +6,7 @@
 	<groupId>com.indvd00m</groupId>
 	<artifactId>jdk6-backports</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>JDK6 backports</name>
 
 	<licenses>

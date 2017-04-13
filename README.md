@@ -23,7 +23,7 @@ Add dependency to your maven project:
 	<dependency>
 		<groupId>com.indvd00m</groupId>
 		<artifactId>jdk6-backports</artifactId>
-		<version>1.0.0-SNAPSHOT</version>
+		<version>1.0.0</version>
 		<scope>provided</scope>
 	</dependency>
 ```
